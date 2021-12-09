@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Created-By: 11.0.10.9-hotspot (SnapGame)
+Main-Class: App
+Implementation-Title: MyProject
+Implementation-Version: 1.0-build_
+Implementation-Vendor: SnapGame
+Implementation-Author: Frédéric Delorme
